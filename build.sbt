@@ -5,3 +5,4 @@ scalaVersion := "2.12.10"
 
 githubOwner := "gvenkat1216"
 githubRepository := "example-library"
+githubActor := "gvenkat1216"
